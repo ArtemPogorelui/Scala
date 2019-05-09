@@ -1,0 +1,20 @@
+package net.proselyte.scalatutorial
+
+/**
+
+  * Simple Scala program
+  
+  *
+  
+  * @author Eugene Suleimanov
+  
+  */
+
+object FirstScalaProgram {
+
+  def main(args: Array[String]){
+  
+    println("This is first Scala program");
+  }
+  
+}
